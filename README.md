@@ -1,4 +1,4 @@
-# GoStack Seção 1
+# GoStack Fase 2
 ## Desafio 1: Conceitos do NodeJS
 
 Aqui os meus conhecimentos recém adquiridos em Node.js são testados.
